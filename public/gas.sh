@@ -1,0 +1,1 @@
+cat /home/u227985952/domains/newarung-pojok.com/public_html/server/.env

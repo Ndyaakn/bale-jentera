@@ -1,0 +1,65 @@
+.add-btn{
+    background-color: #728946;
+    font-weight: bold;
+    color: white;
+  }
+  .btn-edit{
+      margin: 5px;
+      background-color: #728946;
+      color: white;
+    }
+    .btn-delete{
+      color: white;
+      margin: 5px;
+      background-color: red;
+    }
+    .cell-max-width{
+        width: 100%;
+    }
+    th{
+        vertical-align: middle !important;
+    }
+  @media (max-width: 767.98px) { 
+    .section-header-breadcrumb{
+      display: none !important;
+    }
+    .card-page{
+      padding: 10px !important;
+    }
+    .title-page{
+      width: 75% !important;
+    }
+    .col-add{
+      width: 25%  !important;
+    }
+    .search-icon{
+      margin-top: -39px;
+      margin-left: 210px;
+    }
+    .drop-page-list{
+      width: 25%;
+    }
+    .show-text{
+      width: 20%;
+    }
+    .entries-text{
+      width: 30%;
+    }
+    .cell-max-width{
+        width: 340px !important;
+    }
+   }
+   @media (max-width: 991.98px) { 
+    .section-header-breadcrumb{
+      display: none !important;
+    }
+    .btn-edit{
+      margin: 5px;
+    }
+    .btn-delete{
+      margin: 5px;
+    }
+    .cell-max-width{
+        width: 340px !important;
+    }
+   }
